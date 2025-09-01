@@ -2,6 +2,8 @@
 
 Play some classic games while your AI agents are working for you.
 
+Installed from [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ImranBarbhuiya.game-arena)
+
 ## Features
 
 Game Arena brings classic arcade games directly into your VS Code workspace. Take a break from coding and enjoy some nostalgic gaming without leaving your editor.

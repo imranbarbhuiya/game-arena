@@ -4,6 +4,7 @@
   "description": "Play some classic games while your ai agents are working for you.",
   "version": "0.0.1",
   "icon": "images/icon.png",
+  "publisher": "ImranBarbhuiya",
   "engines": {
     "vscode": "^1.74.0"
   },
