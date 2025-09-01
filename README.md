@@ -9,9 +9,9 @@ Game Arena brings classic arcade games directly into your VS Code workspace. Tak
 ### Available Games
 
 - **Snake** - Navigate the snake to eat food and grow longer while avoiding collisions
-  ![Snake Game](.github/images/snake.png)
+  ![Snake Game](https://raw.githubusercontent.com/imranbarbhuiya/game-arena/refs/heads/main/.github/images/snake.png)
 - **Tetris** - Stack falling blocks to clear lines and achieve high scores
-  ![Tetris Game](.github/images/tetris.png)
+  ![Tetris Game](https://raw.githubusercontent.com/imranbarbhuiya/game-arena/refs/heads/main/.github/images/tetris.png)
 - And more games coming soon!
 
 ## Getting Started

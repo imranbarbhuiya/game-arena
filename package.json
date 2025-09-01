@@ -3,8 +3,9 @@
   "displayName": "Game Arena",
   "description": "Play some classic games while your ai agents are working for you.",
   "version": "0.0.1",
+  "icon": "images/icon.png",
   "engines": {
-    "vscode": "^1.103.0"
+    "vscode": "^1.74.0"
   },
   "categories": [
     "Other"
@@ -35,7 +36,8 @@
     "pretest": "yarn run compile-tests && yarn run compile && yarn run lint",
     "check-types": "tsc --noEmit",
     "lint": "eslint src",
-    "test": "vscode-test"
+    "test": "vscode-test",
+    "deploy": "vsce publish --yarn"
   },
   "devDependencies": {
     "@types/mocha": "^10.0.10",
